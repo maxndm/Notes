@@ -38,19 +38,19 @@
    - application environments
 ### Branching strategies
   - Github flow
-      ![alt text](github_flow.png "Title")
+      ![alt text](img/github_flow.png "Title")
     -  simplest workflow of the three
     -  __pull request = merge request__
   - Git flow
-  ![alt text](git_flow.png "Title")
+  ![alt text](img/git_flow.png "Title")
     - most complex of the three
   - Gitlab flow
     - midway complexity
     - has 2 variations
     - Gitlab flow - Environment Branches
-  ![alt text](gitlab_flow.png "Title")
+  ![alt text](img/gitlab_flow.png "Title")
       - yes
      - Gitlab flow - Release Branches
-  ![alt text](gitlab_flow2.png "Title")
+  ![alt text](img/gitlab_flow2.png "Title")
         - open source projects
   
