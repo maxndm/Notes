@@ -105,8 +105,11 @@ file://czprga99033srv.ad001.siemens.net/Ebooks/
 All Czech Local Guidelines 
 https://imsd.siemens.cloud/RC-CZ/CMS/19 
 
-https://jupiter.tfs.siemens.net/tfs/IPS/VirtualControl/_dashboards/dashboard/77ae4e96-4774-4705-9d0a-d48616944430
+Project issues and so on - something like gitlab but more complex -  https://jupiter.tfs.siemens.net/tfs/IPS/VirtualControl/_dashboards/dashboard/77ae4e96-4774-4705-9d0a-d48616944430
 
 ## Identification
 - 
+
+# Important Notes 4.11.2022
+- No important notes - history and philosophy
 
