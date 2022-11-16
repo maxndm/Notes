@@ -113,3 +113,12 @@ Project issues and so on - something like gitlab but more complex -  https://jup
 # Important Notes 4.11.2022
 - No important notes - history and philosophy
 
+# Elektrotechnické školení vyhláška 50
+- budu osoba poučená
+    - malé napětí do 50V - mohu
+    - nízké 50-1500V - ne
+    - vysoké 15kV - ne
+    - IP ochrana `IP XY`
+        - X - fyzický předmět
+        - Y - vodotěsnost
+    
